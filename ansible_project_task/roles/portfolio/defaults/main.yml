@@ -1,0 +1,3 @@
+---
+# defaults file for portfolio
+web_destination_path: /var/www/html
